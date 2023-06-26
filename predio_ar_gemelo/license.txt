@@ -1,0 +1,11 @@
+Model Information:
+* title:	Predio AR gemelo
+* source:	https://sketchfab.com/3d-models/predio-ar-gemelo-40e8864fb9be4af6bc1e31d7caf4668d
+* author:	gemelo (https://sketchfab.com/gemelo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Predio AR gemelo" (https://sketchfab.com/3d-models/predio-ar-gemelo-40e8864fb9be4af6bc1e31d7caf4668d) by gemelo (https://sketchfab.com/gemelo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
