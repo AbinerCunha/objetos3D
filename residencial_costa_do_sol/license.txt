@@ -1,0 +1,11 @@
+Model Information:
+* title:	Residencial Costa do Sol
+* source:	https://sketchfab.com/3d-models/residencial-costa-do-sol-06ffc1dfc6f341a89a8e66233541d8b2
+* author:	engenhariacomigor (https://sketchfab.com/engenhariacomigor)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Residencial Costa do Sol" (https://sketchfab.com/3d-models/residencial-costa-do-sol-06ffc1dfc6f341a89a8e66233541d8b2) by engenhariacomigor (https://sketchfab.com/engenhariacomigor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
