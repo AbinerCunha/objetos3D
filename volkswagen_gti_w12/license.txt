@@ -1,0 +1,11 @@
+Model Information:
+* title:	Volkswagen GTI W12
+* source:	https://sketchfab.com/3d-models/volkswagen-gti-w12-49b0f513fd9c46a99fcb07dba3008ed5
+* author:	jacces (https://sketchfab.com/jacces)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Volkswagen GTI W12" (https://sketchfab.com/3d-models/volkswagen-gti-w12-49b0f513fd9c46a99fcb07dba3008ed5) by jacces (https://sketchfab.com/jacces) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
