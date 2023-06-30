@@ -5448,5 +5448,3 @@
     }
   ]
 }
-scene.receiveShadow = true;
-scene.castShadow = true;
